@@ -1,0 +1,1 @@
+Timus profile: https://acm.timus.ru/author.aspx?id=392934
