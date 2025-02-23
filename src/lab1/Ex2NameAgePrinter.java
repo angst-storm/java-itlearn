@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class NameAgePrinter {
+public class Ex2NameAgePrinter {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

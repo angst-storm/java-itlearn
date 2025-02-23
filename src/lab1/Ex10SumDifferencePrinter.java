@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class SumDifferencePrinter {
+public class Ex10SumDifferencePrinter {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

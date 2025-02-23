@@ -2,7 +2,7 @@ package lab1;
 
 import java.util.Scanner;
 
-public class MonthLengthPrinter {
+public class Ex4MonthLengthPrinter {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
